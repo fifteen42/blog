@@ -1,0 +1,14 @@
+{
+    "list": [
+       {
+          "name":"链萌 Lemons",
+          "url":"http://lemons.link/",
+          "desc":"区块链入门平台 | 迈向区块链世界的第一步"
+       },
+       {
+          "name":"zkPoP",
+          "url":"https://github.com/FUTingFei/zkPoP",
+          "desc":"基于零知识证明的成绩合格证明工具"
+       }
+    ]
+ }
