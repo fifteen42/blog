@@ -1,7 +1,9 @@
-baseURL = "futingfei.github.io"
+baseURL = "https://futingfei.github.io"
 languageCode = "en-us"
 title = "Fat Blog"
 theme = "cactus"
+googleAnalytics = "G-WLHHMZN550"
+
 
 [params]
 description = "想到啥写啥，内容主要包括区块链，科幻，美食等。"
@@ -9,8 +11,8 @@ mainSection = "posts"
 showAllPostsOnHomePage = false # 是否展示所有 post，false默认展示 5 条
 tagsOverview = false # 默认展示标签
 showProjectsList = true
-projectsUrl = "https://github.com/futingfei"
 rss = true
+colortheme = "white"
 
 [[menu.main]]
 name = "Home"
@@ -41,9 +43,9 @@ weight = 4
   link = "ftf15@foxmail"
 
 [[params.social]]
-  name = "twitter"
-  link = "https://twitter.com/teen_fat"
-
-[[params.social]]
   name = "weibo"
   link = "https://weibo.com/u/6568789575" 
+
+[[params.social]]
+  name = "rss"
+  link = "https://tingfei.art/index.xml" 

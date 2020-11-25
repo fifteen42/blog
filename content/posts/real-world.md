@@ -2,7 +2,7 @@
 title: "想学学 web 开发？来看看这个项目：RealWorld"
 date: 2020-10-24T17:49:20+08:00
 draft: false
-tags: rust web
+tags: ['rust','web']
 ---
 
 最近想学习一下用 Rust 开发 web 应用，以便之后快速搭建 web 服务。程序员嘛，难免偶尔就要搭个网站什么的。
