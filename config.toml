@@ -43,9 +43,5 @@ weight = 4
   link = "ftf15@foxmail"
 
 [[params.social]]
-  name = "weibo"
-  link = "https://weibo.com/u/6568789575" 
-
-[[params.social]]
   name = "rss"
   link = "https://tingfei.art/index.xml" 
