@@ -12,7 +12,7 @@ showAllPostsOnHomePage = false # 是否展示所有 post，false默认展示 5 �
 tagsOverview = false # 默认展示标签
 showProjectsList = true
 rss = true
-colortheme = "dark"
+colortheme = "white"
 
 [[menu.main]]
 name = "Home"
