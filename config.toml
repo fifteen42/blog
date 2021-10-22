@@ -1,4 +1,4 @@
-baseURL = "http://tingfei.art/"
+baseURL = "https://tingfei.art/"
 languageCode = "en-us"
 title = "Fat Blog"
 theme = "cactus"
