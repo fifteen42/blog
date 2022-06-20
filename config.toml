@@ -1,4 +1,4 @@
-baseURL = "https://tingfei.art/"
+baseURL = "https://tingfei.space/"
 languageCode = "en-us"
 title = "Fat Blog"
 theme = "cactus"
@@ -44,4 +44,4 @@ weight = 4
 
 [[params.social]]
   name = "rss"
-  link = "http://tingfei.art/index.xml" 
+  link = "http://tingfei.space/index.xml" 
