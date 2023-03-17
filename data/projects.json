@@ -1,2 +1,9 @@
 {
+    "list": [
+       {
+          "name":"Ensoul",
+          "url":"https://ensoul.io/",
+          "desc":"一款 SBT 发行管理工具"
+       }
+    ]
 }
