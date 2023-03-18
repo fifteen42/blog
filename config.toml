@@ -8,7 +8,7 @@ googleAnalytics = "G-WLHHMZN550"
 [params]
 description = "想到啥写啥，内容主要包括区块链，科幻，美食等。"
 mainSection = "posts"
-showAllPostsOnHomePage = false # 是否展示所有 post，false默认展示 5 条
+showAllPostsOnHomePage = true # 是否展示所有 post，false默认展示 5 条
 tagsOverview = false # 默认展示标签
 showProjectsList = true
 rss = true

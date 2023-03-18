@@ -1,7 +1,7 @@
 ---
 title: "我为什么选择做一个 DAO 而不是一个项目？"
 date: 2022-07-28T23:51:08+08:00
-draft: true
+draft: false
 tags: ['DAO','SBT']
 ---
 
